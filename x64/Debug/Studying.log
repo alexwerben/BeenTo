@@ -1,0 +1,3 @@
+﻿  Studying.cpp
+D:\Coding\C++\Studying\Studying\Studying.cpp(333): warning C4715: 'OpenGL': not all control paths return a value
+  Studying.vcxproj -> D:\Coding\C++\Studying\x64\Debug\Studying.exe
